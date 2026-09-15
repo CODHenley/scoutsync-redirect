@@ -1,0 +1,1 @@
+# scoutsync-redirect
